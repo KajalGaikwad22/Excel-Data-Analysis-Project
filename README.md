@@ -1,0 +1,1 @@
+This project presents a comprehensive data analysis of e-commerce purchases from popular platforms like Amazon, Flipkart, Meesho, Myntra, Ajio, and more. The analysis is carried out using Microsoft Excel, and the results are visualized through an interactive dashboard, providing valuable insights into user preferences and buying patterns.
